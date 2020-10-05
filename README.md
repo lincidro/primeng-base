@@ -25,3 +25,27 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## //////////////////////////////////////////////////////////
+
+## Instalar primeng
+npm install primeng --save
+npm install primeicons --save
+
+## Verificar dependencias
+Verificar o agregar a las dependencias:
+"dependencies": {
+    //...
+    "primeng": "^10.0.0",
+    "primeicons": "^4.0.0"
+},
+
+## Agregar estilos
+Agregar los estilos en angular.json
+
+## Animaciones
+Se pueden instalar animaciones
+npm install @angular/animations
+igualmente verificar o agregar las dependencias
+
+
